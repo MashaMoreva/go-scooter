@@ -1,0 +1,15 @@
+:root {
+  --opacity: 0.9;
+  --linear: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, var(--opacity)) 0%,
+      rgba(255, 255, 255, var(--opacity)) 100%
+    ),
+    linear-gradient(90deg, #ff5c4d 0%, #eb469f 25%, #8341ef 72%, #3f68f9 100%);
+}
+
+.header {
+  position: relative;
+  background: var(--linear);
+  padding: 124.94px 74.63px 0 262px;
+}

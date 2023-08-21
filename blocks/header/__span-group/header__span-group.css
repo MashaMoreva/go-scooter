@@ -1,0 +1,12 @@
+.header__span-group {
+  padding-right: 12px;
+  display: inline-flex;
+  gap: 12px;
+  border-radius: 50px;
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.63) 0%,
+      rgba(255, 255, 255, 0.63) 100%
+    ),
+    radial-gradient(141.42% 141.42% at 100% -0%, #e0b8ff 0%, #b6b9ff 100%);
+}
