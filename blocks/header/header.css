@@ -1,5 +1,5 @@
 :root {
-  --opacity: 0.9;
+  --opacity: 0.78;
   --linear: linear-gradient(
       0deg,
       rgba(255, 255, 255, var(--opacity)) 0%,
@@ -10,6 +10,7 @@
 
 .header {
   position: relative;
-  background: var(--linear);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%),
+    var(--linear);
   padding: 124.94px 74.63px 0 262px;
 }
