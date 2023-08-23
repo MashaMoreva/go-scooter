@@ -1,10 +1,9 @@
 .header__subtitle-accent {
-  display: inline-flex;
-  padding: 8px 12px;
-  border-radius: 50px;
   background: radial-gradient(
     141.42% 141.42% at 100% -0%,
     #e0b8ff 0%,
     #b6b9ff 100%
   );
+  border-radius: 50px;
+  padding: 0px 14px;
 }
