@@ -17,6 +17,19 @@
 @import url(../blocks/advantages/__container/advantages__container.css);
 @import url(../blocks/advantages/__card-image/advantages__card-image.css);
 @import url(../blocks/advantages/__card-text/advantages__card-text.css);
+@import url(../blocks/events/events.css);
+@import url(../blocks/events/__title/events__title.css);
+@import url(../blocks/events/__text/events__text.css);
+@import url(../blocks/events/__images/events__images.css);
+@import url(../blocks/events/__image/events__image.css);
+@import url(../blocks/events/__image/_first/events__image_first.css);
+@import url(../blocks/events/__image/_second/events__image_second.css);
+@import url(../blocks/events/__image/_third/events__image_third.css);
+@import url(../blocks/events/__image/_fourth/events__image_fourth.css);
+@import url(../blocks/events/__sticker/events__sticker.css);
+@import url(../blocks/events/__sticker/_first/events__sticker_first.css);
+@import url(../blocks/events/__sticker/_second/events__sticker_second.css);
+@import url(../blocks/events/__sticker/_third/events__sticker_third.css);
 
 * {
   box-sizing: border-box;
