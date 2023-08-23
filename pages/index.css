@@ -12,6 +12,12 @@
 @import url(../blocks/header/__subtitle-accent/header__subtitle-accent.css);
 @import url(../blocks/header/__subtitle-through/header__subtitle-through.css);
 @import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/__title/advantages__title.css);
+@import url(../blocks/advantages/__container/advantages__container.css);
+@import url(../blocks/advantages/__card/advantages__card.css);
+@import url(../blocks/advantages/__card-image/advantages__card-image.css);
+@import url(../blocks/advantages/__card-text/advantages__card-text.css);
 
 * {
   box-sizing: border-box;
