@@ -36,6 +36,13 @@
 @import url(../blocks/plus/__image-first/plus__image-first.css);
 @import url(../blocks/plus/__image-second/plus__image-second.css);
 @import url(../blocks/plus/__image-third/plus__image-third.css);
+@import url(../blocks/club/club.css);
+@import url(../blocks/club/__image-first/club__image-first.css);
+@import url(../blocks/club/__image-second/club__image-second.css);
+@import url(../blocks/club/__image-third/club__image-third.css);
+@import url(../blocks/club/__title/club__title.css);
+@import url(../blocks/club/__text/club__text.css);
+@import url(../blocks/club/__button/club__button.css);
 
 * {
   box-sizing: border-box;

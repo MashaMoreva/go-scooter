@@ -1,0 +1,6 @@
+.club__image-second {
+  position: absolute;
+  z-index: 2;
+  top: 5px;
+  left: 2px;
+}
