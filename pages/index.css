@@ -53,16 +53,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-button {
-  padding: 0;
-  border: 0;
-  background: transparent;
-  cursor: pointer;
-}
-
 p,
 h1,
-h2,
-h3 {
+h2 {
   margin: 0;
 }

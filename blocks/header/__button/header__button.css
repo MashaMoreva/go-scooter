@@ -1,9 +1,10 @@
 .header__button {
-  margin: 34px 0 118.94px 0;
   padding: 20px 48px;
   border-radius: 36px;
   background: #ffde40;
   box-shadow: 0px 4px 98px 0px rgba(255, 222, 64, 0.59);
   font-size: 24px;
   font-weight: 500;
+  text-decoration: none;
+  color: #21201f;
 }
