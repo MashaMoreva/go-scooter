@@ -30,6 +30,12 @@
 @import url(../blocks/events/__sticker/_first/events__sticker_first.css);
 @import url(../blocks/events/__sticker/_second/events__sticker_second.css);
 @import url(../blocks/events/__sticker/_third/events__sticker_third.css);
+@import url(../blocks/plus/plus.css);
+@import url(../blocks/plus/__title/plus__title.css);
+@import url(../blocks/plus/__text/plus__text.css);
+@import url(../blocks/plus/__image-first/plus__image-first.css);
+@import url(../blocks/plus/__image-second/plus__image-second.css);
+@import url(../blocks/plus/__image-third/plus__image-third.css);
 
 * {
   box-sizing: border-box;
