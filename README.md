@@ -12,7 +12,7 @@
 
 HTML | CSS | БЭМ (Block-Element-Modifier) | Open Graph | Git
 
-- Верстка выполнена по принципу Pixel Perfect, что обеспечивает точное соответствие макету.
+Вёрстка выполнена по принципу Pixel Perfect, что обеспечивает точное соответствие макету.
 
 #### Важные особенности:
 
@@ -20,6 +20,5 @@ HTML | CSS | БЭМ (Block-Element-Modifier) | Open Graph | Git
 
 #### Ссылки:
 
-- [Стать частью клуба](https://go-scooter.vercel.app/)
-
+- [GO!](https://go-scooter.vercel.app/)
 - [Макет в графическом редакторе Figma](https://www.figma.com/file/W9gacDyHMIG55KuDwAN2Tl/go-scooter-pass?type=design&node-id=0%3A1&mode=design&t=V3t6xGSnh2NankWx-1)
